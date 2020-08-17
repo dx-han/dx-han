@@ -11,4 +11,4 @@ I am a data scientist with great enthusiasm for online controlled experiments an
 
 - 🔭 I’m currently working as a Data Scientist at Shanghai Media Group, China Business Network (also called Yicai in Chinese)
 - 🌱 I’m currently learning computer/database/distributed systems, machine/deep/reinforcement learning
-- ⚡ Fun fact: I believe OVERWACH is the best computer games in the world
+- ⚡ Fun fact: I firmly believe OVERWACH is the best computer game in the world
