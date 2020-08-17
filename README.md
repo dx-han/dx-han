@@ -2,7 +2,7 @@
 
 ### Hi there 👋  Here is Dongxiao Han
 
-[![HitCount](http://hits.dwyl.com/PatrickPro2/{project}.svg)](http://hits.dwyl.com/PatrickPro2/{project})
+<!--[![HitCount](http://hits.dwyl.com/PatrickPro2/{project}.svg)](http://hits.dwyl.com/PatrickPro2/{project})-->
 
 <!--
 **PatrickPro2/PatrickPro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
