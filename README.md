@@ -1,4 +1,6 @@
-### Hi there 👋 Here is Dongxiao Han
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
+### Hi there 👋  Here is Dongxiao Han
 
 [![HitCount](http://hits.dwyl.com/PatrickPro2/{project}.svg)](http://hits.dwyl.com/PatrickPro2/{project})
 
