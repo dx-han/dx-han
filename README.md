@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Here is Dongxiao Han
+
+[![HitCount](http://hits.dwyl.com/PatrickPro2/{project}.svg)](http://hits.dwyl.com/PatrickPro2/{project})
 
 <!--
 **PatrickPro2/PatrickPro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-[![HitCount](http://hits.dwyl.com/PatrickPro2/{project}.svg)](http://hits.dwyl.com/PatrickPro2/{project})
-:rage:
+
+
+I am a data scientist with great enthusiasm for online controlled experiments and applied machine learning prediction problems.
+
+- 🔭 I’m currently working as a Data Scientist at Shanghai Media Group, China Business Network (also called Yicai in Chinese)
+- 🌱 I’m currently learning computer/database/distributed systems, machine/deep/reinforcement learning
+- ⚡ Fun fact: I believe OVERWACH is the best computer games in the world
