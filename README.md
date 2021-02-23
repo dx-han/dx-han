@@ -10,7 +10,7 @@
 
 
 I've worked as a data scientist for online controlled experiments and applied machine learning prediction problems for three years.
-And I'm currently a CMU graduate student. I decide to be a software engineer to be my next career goal.
+And I'm currently a CMU graduate student. I decide to be a software engineer as my next career goal.
 
 
 - ⚡ Fun fact: I firmly believe OVERWACH is the best computer game in the world
