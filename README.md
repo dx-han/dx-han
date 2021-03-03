@@ -9,9 +9,8 @@
 -->
 
 
-I've worked as a data scientist for applied machine learning problems for three years.
-Recently, I'm a CMU graduate student major in software engineering. 
-I will be a software engineer as my next career goal.
+Recently, I'm a CMU graduate student major in software engineering. I worked as a data scientist for applied machine learning and business analysis for the last three years. But now, I decide to focus on software engineer as my next career goal. I firmly believe that interdisciplinary talent is who I could be.
+
 
 
 - ⚡ Fun fact: I firmly believe OVERWACH is the best computer game in the world
