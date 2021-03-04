@@ -13,7 +13,7 @@ Recently, I'm a CMU graduate student major in software engineering. I worked as 
 
 
 
-- ⚡ Fun fact: I firmly believe OVERWACH is the best computer game in the world
+- ⚡ Fun fact: I'm a big fan of Overwatch. Heros never die~
 <!-- - 🔭 
 - 🌱
 -->
