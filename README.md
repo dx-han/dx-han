@@ -9,8 +9,7 @@
 -->
 
 
-Recently, I'm a CMU graduate student major in software engineering. I worked as a data scientist for applied machine learning and business analysis for the last three years. And now, I decide to be a software engineer as my next career goal. I firmly believe that interdisciplinary talent is who I could be.
-
+Recently, I'm a CMU graduate student major in management information systems (software engineering track). I worked as data development engineer and data scientist for the past three years. And now, I decide to be a software engineer as my next career goal. I firmly believe that an interdisciplinary talent is someone who I could be.
 
 
 - ⚡ Fun fact: I'm a big fan of Overwatch. Heros never die~
