@@ -9,10 +9,14 @@
 -->
 
 
-Recently, I'm a CMU graduate student major in management information systems (software engineering track). I worked as data development engineer and data scientist for the past three years. And now, I decide to be a software engineer as my next career goal. I firmly believe that an interdisciplinary talent is someone who I could be.
+I'm a CMU graduate student majoring in computer information systems. 
 
 
-- ⚡ Fun fact: I'm a big fan of Overwatch. Heros never die~
+⚡ Fun fact:
+
+- Python keeps my wallet happy; Rust keeps my heart racing :D
+- Elden Ring DLC, where are you?!
+- I'm a big fan of Overwatch. Heroes never die!
 <!-- - 🔭 
 - 🌱
 -->
